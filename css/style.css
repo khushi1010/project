@@ -16,6 +16,7 @@
 	background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../images/1200px-Broken_Beach.jpg);
 	background-size: cover;
 	background-position: center center;
+	position: relative;
 
 }
 
@@ -93,7 +94,7 @@
 
 
 .title h1{
-	position: absolute;
+	position: absolute;	
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%,-50%);
@@ -103,7 +104,7 @@
 }
 
 .title h4{
-	position: absolute;
+	position: absolute;	
 	top: 70%;
 	left: 50%;
 	transform: translate(-50%,-50%);
@@ -114,7 +115,7 @@
 }
 
 .title button{
-	position: absolute;
+	position: absolute;	
 	top: 90%;
 	left: 50%;
 	transform: translate(-50%,-50%);
