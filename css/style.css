@@ -417,10 +417,10 @@ font-size: 13px;
 }
 
 .con  img{
-	width: 150px;
- 	height: 150px;
+	width: 160px;
+ 	height: 30vh;
  	border: 1px solid black ;
- 	box-shadow: 5px 8px 3px 0px #130f40;
+ 	box-shadow: 5px 0px 5px 4px #130f40;
  	margin-top: 10px; 	
 
  }
@@ -453,7 +453,7 @@ font-size: 13px;
 	width: 200px;
  	height: 46vh;
     background-size: contain;
-    background-color:#6ab04c;
+    background-color:#192a56;
     border-radius: 20px; 
      
 
